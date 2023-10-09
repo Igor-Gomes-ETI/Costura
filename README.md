@@ -1,4 +1,4 @@
-<h1 align="center"> Hacktoberfest 2022 </h1>
+<h1 align="center"> Hacktoberfest 2023 </h1>
 <h2 align="center">Costura</h2>
 
 <h3 align="center">Prover a integração da indústria têxtil e costureiras independentes. </h3>
